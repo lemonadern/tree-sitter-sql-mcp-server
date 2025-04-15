@@ -1,1 +1,1 @@
-pub(crate) mod counter;
+pub(crate) mod tree_sitter_sql;
