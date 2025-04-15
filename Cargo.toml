@@ -22,5 +22,5 @@ tracing-subscriber = { version = "0.3", features = [
     "fmt",
 ] }
 schemars = { version = "0.8", optional = true }
-tree-sitter = "0.25.3"
+tree-sitter = "0.20.3"
 tree-sitter-sql = { git = "https://github.com/future-architect/tree-sitter-sql" }
